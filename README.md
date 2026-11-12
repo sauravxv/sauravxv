@@ -1,16 +1,36 @@
-## Hi there 👋
+Hey, I'm Saurav 👋
 
-<!--
-**sauravxv/sauravxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student at Ramrao Adik Institute of Technology, specialising in Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+I'm interested in understanding how technology works, particularly cybersecurity, software development and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning, experimenting and building my foundations in computer science.
+
+What interests me
+
+- 🔐 Cybersecurity & Information Security
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Software Development
+- 🌐 Computer Networks & Systems
+
+Currently learning
+
+- Programming fundamentals
+- Computer science concepts
+- Cybersecurity fundamentals
+- Exploring AI and machine learning
+
+A little about me
+
+- 🎓 B.Tech CSE (AI & ML) student
+- 📍 Mumbai, India
+- 🔍 Curious about how things work behind the scenes
+- 🌱 Always learning something new
+
+Let's connect
+
+- GitHub: "@sauravxv" (https://github.com/sauravxv)
+
+---
+
+Learning by doing. Building one step at a time.
